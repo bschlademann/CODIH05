@@ -1,5 +1,5 @@
 public class BubbleSortExample {
-    static void bubbleSort(int[] unsorted) {
+    static void bubbleSortInt(int[] unsorted) {
         int n = unsorted.length;
         int temp = 0;
         boolean swapped;
